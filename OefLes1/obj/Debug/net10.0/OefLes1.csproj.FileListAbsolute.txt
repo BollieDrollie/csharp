@@ -1,0 +1,15 @@
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\bin\Debug\net10.0\OefLes1.exe
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\bin\Debug\net10.0\OefLes1.deps.json
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\bin\Debug\net10.0\OefLes1.runtimeconfig.json
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\bin\Debug\net10.0\OefLes1.dll
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\bin\Debug\net10.0\OefLes1.pdb
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\obj\Debug\net10.0\OefLes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\obj\Debug\net10.0\OefLes1.AssemblyInfoInputs.cache
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\obj\Debug\net10.0\OefLes1.AssemblyInfo.cs
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\obj\Debug\net10.0\OefLes1.csproj.CoreCompileInputs.cache
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\obj\Debug\net10.0\OefLes1.sourcelink.json
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\obj\Debug\net10.0\OefLes1.dll
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\obj\Debug\net10.0\refint\OefLes1.dll
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\obj\Debug\net10.0\OefLes1.pdb
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\obj\Debug\net10.0\OefLes1.genruntimeconfig.cache
+C:\Users\arthu\RiderProjects\OefLes1\OefLes1\obj\Debug\net10.0\ref\OefLes1.dll
